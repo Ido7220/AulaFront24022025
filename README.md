@@ -1,2 +1,2 @@
 # AulaFront24022025
-Aula de FrontEnd do dia 24
+Meu 1º projeto, a aula de hojeé para testar o github desktop
